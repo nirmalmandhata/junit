@@ -3,7 +3,6 @@
 Git hub repository ftesting purpose only or the free Udemy course : 
 [https://www.udemy.com/course/junit-tutorial-for-beginners-with-java-examples/](https://www.udemy.com/course/junit-tutorial-for-beginners-with-java-examples/)
 
-
 ## Get started with Junit
 
 * [Course Overview](#topics)
